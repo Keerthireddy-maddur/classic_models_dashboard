@@ -3,6 +3,8 @@
  raw sales data into insightful, user-friendly reports.
 ## Key features of the dashboard:
 Interactive Visualizations: Explore vehicle sales data through dynamic filters, slicers, and interactive elements.
+
+
 Sales Analysis: Detailed breakdown of sales by city, products, and categories.
 ### Performance Metrics:
 Track overall sales trends by month and year, with insights into top-selling products and regions.
