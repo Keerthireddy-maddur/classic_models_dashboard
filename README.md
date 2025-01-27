@@ -5,10 +5,10 @@
 Interactive Visualizations: Explore vehicle sales data through dynamic filters, slicers, and interactive elements.
 Sales Analysis: Detailed breakdown of sales by city, products, and categories.
 ### Performance Metrics:
-Track overall sales trends by month and year, with insights into top-selling products and regions.
+Track overall sales trends by month and year, with insights into top-selling products and regions.  (`<br>`)
 Product Line Analysis:
-Visual representation of sales distribution across different vehicle product lines, highlighting key performers.
+Visual representation of sales distribution across different vehicle product lines, highlighting key performers.  (`<br>`)
 Geographic Performance:
-Analyze sales performance by city and country, identifying high-performing and underperforming regions.
+Analyze sales performance by city and country, identifying high-performing and underperforming regions.  (`<br>`)
 Profit Margins:
-Monitor profit margins across product lines and regions to identify opportunities for cost optimization.
+Monitor profit margins across product lines and regions to identify opportunities for cost optimization.  
