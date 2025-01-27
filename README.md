@@ -1,4 +1,9 @@
 # classic_models_dashboard
+
+
+[Power BI Report](https://app.powerbi.com/groups/me/reports/615a88ad-0d67-4bfc-b89d-3b6963495ae6/f839c39534a2f65d7a7a?experience=power-bi)
+
+
  This repository demonstrates the Sales and Performance Dashboards project, designed to analyze 2004 vehicle sales data and create interactive visualizations. The project leverages Power BI  and Excel to transform 
  raw sales data into insightful, user-friendly reports.
 ## Key features of the dashboard:
